@@ -45,18 +45,17 @@ Microsoft Software Power BI
 
 ### Benefits of Recruitment analysis:
 
-  1.Reduce Time to Hire:instrumental in efforts to assess candidates more accurately, identify areas of improvement, and reduce our time to hire. 
+    1.Reduce Time to Hire:instrumental in efforts to assess candidates more accurately, identify areas of improvement, and reduce our time to hire. 
 
-  2.Assess Bounce Rate : A useful method of effectively using analytics data at the requirement stage is to assess your bounce rate of applicants at closing stages in line with your offering to applicants.
+    2.Assess Bounce Rate : A useful method of effectively using analytics data at the requirement stage is to assess your bounce rate of applicants at closing stages in line with your offering to applicants.
 
-  3.To Identify Which Channels Successful Hires Came From:By analyzing data on where successful hires came from, organizations can identify the most effective recruitment channels and adjust their recruitment   
-    strategies accordingly.
+    3.To Identify Which Channels Successful Hires Came From:By analyzing data on where successful hires came from, organizations can identify the most effective recruitment channels and adjust their recruitment   
+      strategies accordingly.
 
-  4.Increase Financial Support for the Recruitment:Businesses can attract more talent during the hiring process by utilizing a variety of channels. However, this can cause greater operating costs. Using HR data   
-    analytics makes it simple to compare several recruitment channels and choose the best one.
+    4.Increase Financial Support for the Recruitment:Businesses can attract more talent during the hiring process by utilizing a variety of channels. However, this can cause greater operating costs. Using HR data        analytics makes it simple to compare several recruitment channels and choose the best one.
 
-  5.Evaluate Job Market Trends:HR analytics can track changes in the job market and identify skill gaps, allowing employers to adjust their recruitment strategies in order to stay competitive. This helps ensure 
-    that the organization can attract and keep the best talent.
+    5.Evaluate Job Market Trends:HR analytics can track changes in the job market and identify skill gaps, allowing employers to adjust their recruitment strategies in order to stay competitive. This helps ensure 
+      that the organization can attract and keep the best talent.
 
 ### Recommendations and improvement techniques:
    
